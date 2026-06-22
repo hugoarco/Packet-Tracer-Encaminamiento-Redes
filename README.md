@@ -55,22 +55,12 @@ Realiza pruebas de conectividad desde cualquier PC con ping.
 
 Consulta el manual para entender el proceso paso a paso y los fundamentos teóricos.
 
-📸 Capturas de pantalla
-Topología final
-https://media/topologia.png
 
-Tabla de enrutamiento Router 0
-https://media/router0_routing.png
-
-Prueba de conectividad
-https://media/ping_test.png
-
-👤 Autor
+## 👤 Autor
 Hugo Arco
 Estudiante de SMR | Apasionado por la automatización, redes y administración de sistemas
-GitHub · Gmail
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la licencia MIT.
 Consulta el archivo LICENSE para más información.
 
