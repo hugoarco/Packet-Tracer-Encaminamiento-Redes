@@ -1,4 +1,5 @@
-<h1 align = "center "> 🌐 Manual de Encaminamiento y Conectividad en Packet Tracer</h1>
+<h1 align = "center" >🌐 Manual de Encaminamiento y Conectividad en Packet Tracer</h1> 
+
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
 [![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-8.0+-blue?style=for-the-badge)](https://www.netacad.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -54,6 +55,15 @@ Realiza pruebas de conectividad desde cualquier PC con ping.
 
 Consulta el manual para entender el proceso paso a paso y los fundamentos teóricos.
 
+📸 Capturas de pantalla
+Topología final
+https://media/topologia.png
+
+Tabla de enrutamiento Router 0
+https://media/router0_routing.png
+
+Prueba de conectividad
+https://media/ping_test.png
 
 👤 Autor
 Hugo Arco
